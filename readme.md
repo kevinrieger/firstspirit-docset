@@ -1,4 +1,4 @@
-# FirstSpirit Dev API Docset
+# FirstSpirit API Docset
 
 ## Introduction
 Providing the FirstSpirit™ [Dev API](https://docs.e-spirit.com/odfs/dev/) and [Access API](https://docs.e-spirit.com/odfs/access/) as Docset, ready for [Zeal](https://zealdocs.org/) and [Dash](https://kapeli.com/dash)!
