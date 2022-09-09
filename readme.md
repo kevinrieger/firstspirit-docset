@@ -1,7 +1,7 @@
-# FirstSpirit Dev API and Access API Docsets
+# FirstSpirit Dev API Docset
 
 ## Introduction
-Providing the FirstSpirit™ [Dev API](https://docs.e-spirit.com/odfs/dev/) and [Access API](https://docs.e-spirit.com/odfs/access/) as Docsets, ready for [Zeal](https://zealdocs.org/) and [Dash](https://kapeli.com/dash)!
+Providing the FirstSpirit™ [Dev API](https://docs.e-spirit.com/odfs/dev/) and [Access API](https://docs.e-spirit.com/odfs/access/) as Docset, ready for [Zeal](https://zealdocs.org/) and [Dash](https://kapeli.com/dash)!
 
 ## Setup
 Download the `.docset` file and import it into your local Zeal/Dash instance. Enjoy!
