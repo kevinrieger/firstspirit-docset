@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: FirstSpirit API
+Implementation-Vendor: e-Spirit AG
+Implementation-Version: 5.2.220907
+X-Compile-Release-JDK: 11
+FirstSpirit-Revision: ae943e8a
+FirstSpirit-Version: 5.2.220907
+FirstSpirit-ReleaseTag: R2209
+FirstSpirit-Branch: 
+Specification-Title: FirstSpirit
+Specification-Vendor: e-Spirit AG
+Specification-Version: ae943e8a
+
